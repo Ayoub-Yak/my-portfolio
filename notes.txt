@@ -1,0 +1,5 @@
+Updated app/page.tsx with the responsive dark portfolio and all four projects.
+
+Verified with npm run build; the build passes.
+
+Note: Add /public/Ayyub-Resume.pdf for the resume button. LinkedIn and email currently use inferred Ayyub profile values.
