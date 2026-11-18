@@ -3,29 +3,29 @@ export default function Home() {
     {
       name: "CarpoolingApp",
       description:
-        "A carpooling solution built with Java to coordinate rides and optimize transit.",
-      tech: ["Java", "Object-Oriented Programming"],
+        "A desktop carpooling management system built with Java, JavaFX, and Maven, utilizing embedded SQLite for real-time ride bookings and driver-passenger profiles.",
+      tech: ["Java", "Object-Oriented Programming" , "JavaFX", "SQLite", "Maven"],
       href: "https://github.com/Ayoub-Yak/CarpoolingApp",
     },
     {
       name: "task-app-v1",
       description:
-        "A modern task management application featuring clean state handling and TypeScript.",
-      tech: ["TypeScript", "React/Node"],
+        "A full-stack task management system built with Java 21, Spring Boot, and React, featuring a layered REST API architecture and a containerized PostgreSQL database via Docker.",
+      tech: ["TypeScript", "React/Node"," Spring Boot", "Java", "Docker", "PostgreSQL"],
       href: "https://github.com/Ayoub-Yak/task-app-v1",
     },
     {
       name: "Blog-app",
       description:
-        "A full-stack blogging platform powered by a Spring Boot backend and TypeScript frontend.",
-      tech: ["Spring Boot", "TypeScript", "Java"],
+        "A full-stack blogging platform powered by a Spring Boot backend, TypeScript frontend, and Docker, implementing stateless RESTful APIs and role-based access control.",
+      tech: ["Spring Boot", "TypeScript", "Java", "Docker"],
       href: "https://github.com/Ayoub-Yak/Blog-app",
     },
     {
-      name: "task-manager-app",
+      name: "task-manager-app (Focus Flow)",
       description:
-        "A cross-platform task manager mobile application built for productivity on the go.",
-      tech: ["TypeScript", "React Native"],
+        "An offline-first cross-platform mobile task manager built with React Native, Expo, and TypeScript, featuring recurring habit streaks, gesture controls, and an integrated Pomodoro focus timer.",
+      tech: ["TypeScript", "React Native", "Expo"],
       href: "https://github.com/Ayoub-Yak/task-manager-app",
     },
   ];
