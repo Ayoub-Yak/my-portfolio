@@ -64,7 +64,7 @@ export default function Home() {
               LinkedIn
             </a>
             <a
-              href="/cv v2.pdf"
+              href="/CV_v2.pdf"
               download
               className="inline-flex h-11 items-center justify-center rounded-lg bg-slate-100 px-4 text-sm font-medium text-slate-950 transition-colors hover:bg-white"
             >
